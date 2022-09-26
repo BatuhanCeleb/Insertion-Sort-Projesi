@@ -1,8 +1,8 @@
 # Insertion-Sort-Projesi
 PatikaDev-VeriYapılarıVeAlgoritma-Insertion Sort Projesi 1
 
-[22,27,16,2,18,6] -> Insertion Sort
-1.Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
+**[22,27,16,2,18,6] -> Insertion Sort
+1.Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.**
 Cevap; [22,27,16,2,18,6] n
 
 Step One -> [2,27,16,22,18,6] n-1
